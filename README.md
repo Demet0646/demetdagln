@@ -1,2 +1,0 @@
-# demetdagln
-ashd
